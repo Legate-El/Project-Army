@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lf2u7zCuGzetQG2N4SRglmc1JTVzRSjK2y9eMIU/5D6dokkmfaWq67jSvjTPr0i7gCb7Q4ja1LBkEBVGhMBs/w==",
+  "success": true,
+  "projectFilePath": "J:\\Programmeren\\Examenoefeningen\\examenoefeningwachtwoord\\examenoefeningwachtwoord\\examenoefeningwachtwoord.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rembrandt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Rembrandt\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Rembrandt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Rembrandt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
